@@ -1,0 +1,9 @@
+{
+  "name": "nscrapy",
+  "description": "a news/content scrapper packed with lots of AI",
+  "image": "heroku/python",
+  "repository": "https://git.heroku.com/nscrapy.git",
+  "keywords": ["python", "news","nscrapy" ],
+  "stack": "heroku-18"
+
+}
